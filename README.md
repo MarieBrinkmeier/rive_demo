@@ -1,16 +1,7 @@
 # rive_animation
 
-A new Flutter project.
+A Flutter demo project to demonstrate the possibilities related to Rive animations.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/99013266/188887111-d1676d5b-ccca-49e0-9554-12a9ec81e3e9.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
